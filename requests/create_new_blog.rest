@@ -2,8 +2,8 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-    "title": "BSH", 
-    "author": "Kelly H", 
-    "url": "https://bsh.com", 
-    "likes": 2
+    "title": "TFP", 
+    "author": "Anthony D", 
+    "url": "https://www.thefourthperiod.com", 
+    "likes": 1
 }
